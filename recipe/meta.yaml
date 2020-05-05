@@ -40,6 +40,7 @@ about:
   license: Apache-2.0
   summary: A 'sparklyr' extension that enables reading and writing 'TensorFlow' TFRecord files via 'Apache Spark'.
   license_family: APACHE
+  license_file: LICENSE-2.0.txt
 
 extra:
   recipe-maintainers:
